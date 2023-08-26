@@ -1,6 +1,18 @@
-### Hi there  👋
+## 👋 Hi, I'm Nao-RandD
 
-iOS Developer
+### 🛠️ Professional Background
+
+📱 Currently working as an **iOS Engineer** at a company specialized in in-house development.  
+💡 Passionate not only about adopting **new technologies**, but also contemplating my **career path** as an engineer.
+
+### 🎓 Academic Background
+
+🔬 Conducted research on **image recognition** using **deep learning** during my university days.
+
+### 🤝 Let's Connect!
+
+🌱 Looking to **enrich my life** through various interactions.  
+🔗 Feel free to connect with me on [Twitter](https://twitter.com/Nao_RandD).
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Nao-RandD&layout=compact)
 
