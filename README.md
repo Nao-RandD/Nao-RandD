@@ -12,7 +12,7 @@
 ### 🤝 Let's Connect!
 
 🌱 Looking to **enrich my life** through various interactions.  
-🔗 Feel free to connect with me on [Twitter](https://twitter.com/Nao_RandD).
+🔗 Feel free to connect with me on [X](https://twitter.com/Nao_RandD).
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Nao-RandD&layout=compact)
 
