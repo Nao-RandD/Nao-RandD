@@ -14,8 +14,9 @@
 🌱 Looking to **enrich my life** through various interactions.  
 🔗 Feel free to connect with me on [X](https://twitter.com/Nao_RandD).
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Nao-RandD&layout=compact)
-
+![Nao-RandD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nao-RandD&theme=github_dark)
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nao-RandD&theme=github_dark)
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nao-RandD&theme=github_dark)
 <!--
 **Nao-RandD/Nao-RandD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
